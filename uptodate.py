@@ -2,7 +2,7 @@ import streamlit as st
 from PIL import Image
 import feedparser
 import numpy as np
-import cv2
+
 import os
 import torch
 from torchvision import transforms
